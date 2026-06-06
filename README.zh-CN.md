@@ -34,15 +34,14 @@ zjooc-helper 是一个用于 zjooc 学习页面的 Tampermonkey/油猴脚本。�
 如果这个脚本帮你节省了时间，可以考虑支持一下维护。
 
 <p>
-  <img src="../assets/sponsor/wechat-pay.jpg" width="260" alt="微信支付赞助码">
-  <img src="../assets/sponsor/usdt-polygon.jpg" width="220" alt="USDT Polygon 赞助码">
+  <img src="wechat-pay.jpg" width="260" alt="微信支付赞助码">
+  <img src="usdt-polygon.jpg" width="220" alt="USDT Polygon 赞助码">
 </p>
 
 <p>
-  <img src="../assets/sponsor/sponsor-extra.jpg" width="220" alt="其他赞助码">
+  <img src="sponsor-extra.jpg" width="220" alt="其他赞助码">
 </p>
 
 ## 致谢与许可
 
 本项目基于 [4o4E/zjooc-script](https://github.com/4o4E/zjooc-script) 修改。原项目采用 GPL-3.0 许可证，因此本项目也以 GPL-3.0-only 发布。
-

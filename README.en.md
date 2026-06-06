@@ -34,15 +34,14 @@ Read the [English installation guide](INSTALL.en.md).
 If this script helps you, sponsorship is appreciated.
 
 <p>
-  <img src="../assets/sponsor/wechat-pay.jpg" width="260" alt="WeChat Pay sponsor QR code">
-  <img src="../assets/sponsor/usdt-polygon.jpg" width="220" alt="USDT Polygon sponsor QR code">
+  <img src="wechat-pay.jpg" width="260" alt="WeChat Pay sponsor QR code">
+  <img src="usdt-polygon.jpg" width="220" alt="USDT Polygon sponsor QR code">
 </p>
 
 <p>
-  <img src="../assets/sponsor/sponsor-extra.jpg" width="220" alt="Additional sponsor QR code">
+  <img src="sponsor-extra.jpg" width="220" alt="Additional sponsor QR code">
 </p>
 
 ## Credits and License
 
 This project is based on and modified from [4o4E/zjooc-script](https://github.com/4o4E/zjooc-script). The original project is licensed under GPL-3.0, so this package is released under GPL-3.0-only.
-

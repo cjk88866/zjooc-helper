@@ -1,6 +1,6 @@
 # zjooc-helper
 
-[简体中文](docs/README.zh-CN.md) | [繁體中文](docs/README.zh-TW.md) | [English](docs/README.en.md)
+[简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
 zjooc-helper is a Tampermonkey userscript for the zjooc learning page. It helps stabilize video playback, keeps videos muted at 1x speed, detects stalls, switches video quality when playback is stuck, and reloads the page with auto-resume when quality switching cannot recover playback.
 
@@ -27,23 +27,23 @@ zjooc-helper is a Tampermonkey userscript for the zjooc learning page. It helps 
 
 Detailed guides:
 
-- [简体中文安装教程](docs/INSTALL.zh-CN.md)
-- [繁體中文安裝教學](docs/INSTALL.zh-TW.md)
-- [English installation guide](docs/INSTALL.en.md)
+- [简体中文安装教程](INSTALL.zh-CN.md)
+- [繁體中文安裝教學](INSTALL.zh-TW.md)
+- [English installation guide](INSTALL.en.md)
 
 ## Sponsor
 
 If this script saves you time or helps with unstable playback, a small sponsorship is appreciated.
 
 <p>
-  <img src="assets/sponsor/wechat-pay.jpg" width="260" alt="WeChat Pay sponsor QR code">
-  <img src="assets/sponsor/usdt-polygon.jpg" width="220" alt="USDT Polygon sponsor QR code">
+  <img src="wechat-pay.jpg" width="260" alt="WeChat Pay sponsor QR code">
+  <img src="usdt-polygon.jpg" width="220" alt="USDT Polygon sponsor QR code">
 </p>
 
 Additional sponsor image:
 
 <p>
-  <img src="assets/sponsor/sponsor-extra.jpg" width="220" alt="Additional sponsor QR code">
+  <img src="sponsor-extra.jpg" width="220" alt="Additional sponsor QR code">
 </p>
 
 ## Publish Notes
